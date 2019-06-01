@@ -140,9 +140,8 @@ namespace AlpaATMGUI
                     executeauthenticateUser();
                 else if ((this.authenticateUser))
                 {
-                    ATMSystem Customer = new ATMSystem();      // new object every time you press Enter
-
-                    transactionResult = Customer.run(this.keypadinput, ref displayscreen, this.initialaccountBalance);
+                   
+                    transactionResult = ATMSystem.run(this.keypadinput, ref displayscreen, this.initialaccountBalance);
 
                     Screen.Text = displayscreen;
 
