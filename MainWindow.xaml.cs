@@ -204,6 +204,7 @@ namespace AlpaATMGUI
             //Create a hash table 
             Hashtable BankAccountDatabaseHashTable = new Hashtable();
 
+            /*  Must utilize the BankDatabase.txt file and set the correct include path or just place it in the same folder as the executable
             using (System.IO.StreamReader rwequities = System.IO.File.OpenText("BankDatabase.txt"))
                 {
                     string readLine;
@@ -214,6 +215,14 @@ namespace AlpaATMGUI
                         BankAccountDatabaseHashTable.Add( parseReadLine[0], double.Parse(parseReadLine[1]) );
                     }
                 }
+
+           */
+            BankAccountDatabaseHashTable.Add("1234",90);
+            BankAccountDatabaseHashTable.Add("3456",150);
+            BankAccountDatabaseHashTable.Add("6735",3000);
+            BankAccountDatabaseHashTable.Add("7869",4000);
+            BankAccountDatabaseHashTable.Add("2345",5000);
+
 
             IDictionaryEnumerator BankAccountDatabaseHashTableIterator = BankAccountDatabaseHashTable.GetEnumerator();
             while( BankAccountDatabaseHashTableIterator.MoveNext() && areEqual!=true)

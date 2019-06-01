@@ -1,7 +1,6 @@
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\bin\Debug\AlpaATMGUI.exe.config
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\bin\Debug\AlpaATMGUI.exe
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\bin\Debug\AlpaATMGUI.pdb
-C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMTestSuite.csprojAssemblyReference.cache
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\CustomGUI.g.cs
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\MainWindow.g.cs
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\App.g.cs
