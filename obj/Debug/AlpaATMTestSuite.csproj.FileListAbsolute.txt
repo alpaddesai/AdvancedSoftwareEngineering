@@ -1,0 +1,17 @@
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\bin\Debug\AlpaATMGUI.exe.config
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\bin\Debug\AlpaATMGUI.exe
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\bin\Debug\AlpaATMGUI.pdb
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMTestSuite.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\CustomGUI.g.cs
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\MainWindow.g.cs
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\App.g.cs
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMGUI_MarkupCompile.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMGUI_MarkupCompile.lref
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\CustomGUI.baml
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\MainWindow.baml
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMGUI.g.resources
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMGUI.Properties.Resources.resources
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMTestSuite.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMTestSuite.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMGUI.exe
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\AlpaATMGUI.pdb

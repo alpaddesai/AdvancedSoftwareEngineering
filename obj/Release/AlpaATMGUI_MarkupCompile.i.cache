@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Debug\
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\obj\Release\
 AlpaATMGUI
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMTestSuite\AlpaATMTestSuite\App.xaml
 2-1606890656
 
-71365595212
+8597104161
 13-1505183044
 CustomGUI.xaml;MainWindow.xaml;
 
-False
+True
 
