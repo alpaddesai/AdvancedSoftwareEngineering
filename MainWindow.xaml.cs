@@ -31,7 +31,7 @@ namespace AlpaATMGUI
         {
             InitializeComponent();
             Screen.Text = " Please enter your 4 digit account number by pressing on the key pad and then press enter \n press 0 to restart \n Examples of matching account numbers in the bank database are \n 1234 \n 3456 \n 6735 \n 7869 \n ";
-
+            this.keypadinput = 11;
         }
 
 
@@ -134,23 +134,25 @@ namespace AlpaATMGUI
 
             string displayscreen = Screen.Text;
 
-            if (!(this.authenticateUser))
-                 executeauthenticateUser();
-            else if ((this.authenticateUser))
+            if (keypadinput != 11)
             {
-                ATMSystem Customer = new ATMSystem();      // new object every time you press Enter
+                if (!(this.authenticateUser))
+                    executeauthenticateUser();
+                else if ((this.authenticateUser))
+                {
+                    ATMSystem Customer = new ATMSystem();      // new object every time you press Enter
 
-                transactionResult= Customer.run(this.keypadinput, ref displayscreen, this.initialaccountBalance);
+                    transactionResult = Customer.run(this.keypadinput, ref displayscreen, this.initialaccountBalance);
 
-                Screen.Text = displayscreen;
+                    Screen.Text = displayscreen;
 
+                }
+
+                if (transactionResult == 1)
+                    ButtonWithdrawl_Click(sender, e);
+                else if (transactionResult == 3)
+                    ButtonDeposit_Click(sender, e);
             }
-
-            if (transactionResult == 1)
-                ButtonWithdrawl_Click(sender,e);
-            else if (transactionResult == 3)
-                ButtonDeposit_Click(sender, e);
-
         }
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
@@ -162,6 +164,7 @@ namespace AlpaATMGUI
         {
             bool areEqual = false;
             string arrayAccountNumber = "";
+
             arrayAccountNumber = $"{accountNumber[0]}" + $"{accountNumber[1]}" + $"{accountNumber[2]}" + $"{accountNumber[3]}";
 
           this.initialaccountBalance=BankDatabase.demo(arrayAccountNumber, ref areEqual);
