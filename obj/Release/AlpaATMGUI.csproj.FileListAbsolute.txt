@@ -1,0 +1,17 @@
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\bin\Release\AlpaATMGUI.exe.config
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\bin\Release\AlpaATMGUI.exe
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\bin\Release\AlpaATMGUI.pdb
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\CustomGUI.g.cs
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI_MarkupCompile.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI_MarkupCompile.lref
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\CustomGUI.baml
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI.g.resources
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI.Properties.Resources.resources
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI.exe
+C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI.pdb
