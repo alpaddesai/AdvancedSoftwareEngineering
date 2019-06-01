@@ -14,4 +14,3 @@ C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Debug\AlpaATMGUI
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Debug\AlpaATMGUI.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Debug\AlpaATMGUI.exe
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Debug\AlpaATMGUI.pdb
-C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Debug\AlpaATMGUI.csprojAssemblyReference.cache

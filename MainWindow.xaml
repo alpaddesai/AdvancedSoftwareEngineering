@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AlpaATMGUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="452" Width="702">
+        Title="MainWindow" Height="452" Width="702" ResizeMode="NoResize">
     <Grid Margin="0,0,2,0" Background="#FFEDEDED">
         <Grid.RowDefinitions>
             <RowDefinition Height="94"/>

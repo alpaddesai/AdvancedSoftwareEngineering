@@ -1,7 +1,6 @@
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\bin\Release\AlpaATMGUI.exe.config
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\bin\Release\AlpaATMGUI.exe
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\bin\Release\AlpaATMGUI.pdb
-C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\AlpaATMGUI.csprojAssemblyReference.cache
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\CustomGUI.g.cs
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\MainWindow.g.cs
 C:\Users\ADG\source\repos\EDUCSYE6200\AlpaATMGUI\AlpaATMGUI\obj\Release\App.g.cs
