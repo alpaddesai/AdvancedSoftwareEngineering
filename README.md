@@ -4,6 +4,5 @@ Utilizing the reference book "How program in C# by Dietel" the following project
 It displays the ATM book example however the code is custom.   To execute the graphical user interface please click on the executable 
 from the releaase section of this repository. Here is an image of the Graphical User Interface. By clicking on the custom GUI a demo regression test suite is launched.
 
-![Image of graphical user interface](ATMGUIImage.jpg)   and  
-![Image of regression test suite](RegressionTestSuiteImage.jpg)
+![Image of graphical user interface](ATMGUIImage.jpg)  ![Image of regression test suite](RegressionTestSuiteImage.jpg)
 
