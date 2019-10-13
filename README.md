@@ -7,7 +7,5 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![Image of graphical user interface](ATMGUIImage.jpg)  ![Image of regression test suite](RegressionTestSuiteImage.jpg)
 
-## Certification
-![Image](XilinxCertifications.png)
 
 
