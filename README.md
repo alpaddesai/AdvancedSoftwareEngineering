@@ -9,3 +9,5 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 
 ![image](USCopyrightCertificateofRegistration.png)
+
+Additional reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
