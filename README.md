@@ -7,4 +7,7 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![Image of graphical user interface](ATMGUIImage.jpg)  ![Image of regression test suite](RegressionTestSuiteImage.jpg)
 
+
+![image](KhouryCollegeOfComputerScience.png)
+
 Additional reference : https://github.com/alpaddesai/Algorithms , https://github.com/alpaddesai/ObjectOrientedDesignProgramming and https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp.
