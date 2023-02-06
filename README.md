@@ -11,4 +11,4 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/Algorithms , https://github.com/alpaddesai/ObjectOrientedDesignProgramming , https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp , https://github.com/alpaddesai/ProgrammingDesignParadigm ,  https://github.com/alpaddesai/FoundationsofSoftwareEngineering, https://github.com/alpaddesai/IntroWebDevHealthCareProject and https://github.com/alpaddesai/HW_SW_Integration_ProductSupport 
+Additional reference : https://github.com/alpaddesai/SoftwareEngineering
